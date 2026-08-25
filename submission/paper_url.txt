@@ -1,1 +1,1 @@
-PASTE-YOUR-DEPLOYED-PAPER-URL-HERE
+https://github.com/agharikrishnan/Flyrank_ML/blob/13e1dce338957dcb8d550b7d202a7c58e8c26892/work/notebooks/capstone.ipynb
